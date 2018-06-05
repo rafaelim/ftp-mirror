@@ -1,0 +1,22 @@
+{
+  "name": "ftp-mirror",
+  "version": "0.0.1",
+  "description": "FTP Mirror",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelim/ftp-mirror.git"
+  },
+  "author": "Rafael Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelim/ftp-mirror/issues"
+  },
+  "homepage": "https://github.com/rafaelim/ftp-mirror#readme",
+  "dependencies": {
+    "ftp-client": "^0.2.2"
+  }
+}
