@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rafaelim/ftp-mirror#readme",
   "dependencies": {
-    "ftp-client": "^0.2.2"
+    "ftp": "^0.3.10"
   }
 }
